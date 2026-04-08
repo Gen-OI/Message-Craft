@@ -1,0 +1,27 @@
+{
+  "name": "MessageCraft — Hindi Message Composer",
+  "short_name": "MessageCraft",
+  "description": "Compose messages in Hindi, Hinglish & Indian languages with tone control. Share directly to WhatsApp, Telegram & Instagram.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0A0A14",
+  "theme_color": "#0f0f1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "lang": "hi",
+  "dir": "ltr"
+}
